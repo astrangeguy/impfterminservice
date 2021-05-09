@@ -14,4 +14,6 @@ Auf der Webseite [impfterminservice.de](https://impfterminservice.de/) bekommt j
 3. Den Anweisungen zum Installieren folgen
 4. Auf der Webseite [impfterminservice.de](https://impfterminservice.de/) bis zu dem Punkt gehen, wo verfügbare Termine angezeigt werden würden
 5. Die Seite wird laufend aktualisiert, der Tab kann auch im Hintergrund verbleiben
-6. Ist ein Termin verfügbar, wird ein lautes akustisches Warnsignal auf dem Lautsprecher ausgegeben.
+6. Ist ein Termin verfügbar, wird ein lautes akustisches Warnsignal auf dem Lautsprecher ausgegeben
+7. Das Warnsignal verschwindet, sobald der gefundene Termin ausgewählt wird
+8. Gefällt dir der Termin nicht, stattdessen auf Abbrechen drücken. Das Warnsignal wird jedoch bei der nächsten automatischen Aktualisierung der Seite wiederholt, auch wenn sich die Termine nicht geändert haben
