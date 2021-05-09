@@ -10,7 +10,7 @@ Auf der Webseite [impfterminservice.de](https://impfterminservice.de/) bekommt j
 ## Installation
 
 1. Tampermonkey für [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de), [Mozilla Firefox](https://addons.mozilla.org/de/firefox/addon/tampermonkey/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd), [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) oder [einem Browser deiner Wahl](https://www.tampermonkey.net/) installieren oder [Greasemonkey für Firefox](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) installieren
-2. Auf `Impfterminservice.user.js` auf `View Raw` drücken oder (diesen Link benutzen)[https://github.com/Windowsfreak/impfterminservice/raw/main/Impfterminservice.user.js]
+2. Auf `Impfterminservice.user.js` auf `View Raw` drücken oder [diesen Link benutzen](https://github.com/Windowsfreak/impfterminservice/raw/main/Impfterminservice.user.js)
 3. Den Anweisungen zum Installieren folgen
 4. Auf der Webseite [impfterminservice.de](https://impfterminservice.de/) bis zu dem Punkt gehen, wo verfügbare Termine angezeigt werden würden
 5. Die Seite wird laufend aktualisiert, der Tab kann auch im Hintergrund verbleiben
