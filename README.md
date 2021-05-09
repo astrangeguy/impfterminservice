@@ -1,5 +1,5 @@
 # impfterminservice
-Impftermine kinderleicht in Hamburg bekommen
+Impftermine kinderleicht bekommen
 
 Werde mit einem lauten Warnton benachrichtigt, sobald es neue Termine in deinem Impfzentrum gibt!
 
