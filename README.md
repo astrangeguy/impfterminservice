@@ -1,4 +1,4 @@
-# impfterminservice
+# Impfterminservice
 Impftermine kinderleicht bekommen
 
 Werde mit einem lauten Warnton benachrichtigt, sobald es neue Termine in deinem Impfzentrum gibt!
