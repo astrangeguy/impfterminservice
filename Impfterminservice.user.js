@@ -78,9 +78,9 @@
 
         const waitLoop = () => {
             if (selectAnimation()) {
-                setTimeout(waitLoop, 500);
+                setTimeout(waitLoop, 30000);
             } else if (noAppointments()) {
-                setTimeout(waitLoop, 500);
+                setTimeout(waitLoop, 30000);
                 clickableInput().click();
             } else {
                 makeNoise = true;
